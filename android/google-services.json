@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476180738694",
+    "firebase_url": "https://testapp-eae81.firebaseio.com",
+    "project_id": "testapp-eae81",
+    "storage_bucket": "testapp-eae81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476180738694:android:5201df9c90e3a3b0c3d707",
+        "android_client_info": {
+          "package_name": "com.me.rnfbtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476180738694-110f48ocgvhik4ekdnvkken62dj88i4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXZhmhA_G7N_c_21qlLbWpgHx82hCnIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476180738694-110f48ocgvhik4ekdnvkken62dj88i4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
